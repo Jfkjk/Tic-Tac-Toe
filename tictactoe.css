@@ -1,0 +1,13 @@
+td {
+    border: 1px solid royalblue;
+    padding:75px;
+  }
+  
+  td:hover {
+    background: crimson;
+  }
+  
+  table {
+    border: 1px solid black;
+    padding:1px
+  }
